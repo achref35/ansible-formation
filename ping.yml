@@ -1,6 +1,6 @@
 ---
 
-- hosts: myPost
+- hosts: Ma_VM
   gather_facts: false
   tasks:
     - ping:
